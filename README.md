@@ -86,7 +86,7 @@ gitGraph
     │                 │               │             │            │
 ────┼─────────────────┼───────────────┼─────────────┼────────────┼──────
     │                 │               │             │            │
- [AWS SAA]          [KCNA]          [CKA ✅]    [CKAD ✅]    [CKS 🔥]
+ [AWS SAA ✅]          [KCNA ✅]          [CKA ✅]    [CKAD ✅]    [CKS 🔥]
     │                 │               │             │            │
  Solutions         Kubernetes      Kubernetes    Kubernetes    Kubernetes
  Architect         & Cloud         Admin         App Dev       Security
