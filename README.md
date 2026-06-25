@@ -12,7 +12,7 @@
 **Infrastructure & Platform Engineer in Progress**
 `Japan` · `Work` · `SRE路線`
 
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate_✅_-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 [![KCNA](https://img.shields.io/badge/KCNA-Certified_✅-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/kcna/)
 [![CKA](https://img.shields.io/badge/CKA-Certified_✅-326CE5?style=flat-square&logo=kubernetes&logoColor=white)]()
 [![CKAD](https://img.shields.io/badge/CKAD-Certified_✅-326CE5?style=flat-square&logo=kubernetes&logoColor=white)]()
