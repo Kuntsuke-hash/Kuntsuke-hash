@@ -15,6 +15,8 @@
 [![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 [![KCNA](https://img.shields.io/badge/KCNA-Kubernetes_&_Cloud_Native-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/kcna/)
 [![CKA](https://img.shields.io/badge/CKA-In_Progress_🔥-326CE5?style=flat-square&logo=kubernetes&logoColor=white)]()
+[![CKAD](https://img.shields.io/badge/CKA-In_Progress_🔥-326CE5?style=flat-square&logo=kubernetes&logoColor=white)]()
+[![CKS](https://img.shields.io/badge/CKA-In_Progress_🔥-326CE5?style=flat-square&logo=kubernetes&logoColor=white)]()
 
 </div>
 
